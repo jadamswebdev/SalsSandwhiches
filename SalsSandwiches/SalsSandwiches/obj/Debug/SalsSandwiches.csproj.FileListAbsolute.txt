@@ -1,0 +1,9 @@
+C:\Users\ihopj\source\repos\SalsSandwiches\SalsSandwiches\bin\Debug\SalsSandwiches.exe.config
+C:\Users\ihopj\source\repos\SalsSandwiches\SalsSandwiches\bin\Debug\SalsSandwiches.exe
+C:\Users\ihopj\source\repos\SalsSandwiches\SalsSandwiches\bin\Debug\SalsSandwiches.pdb
+C:\Users\ihopj\source\repos\SalsSandwiches\SalsSandwiches\obj\Debug\SalsSandwiches.csprojAssemblyReference.cache
+C:\Users\ihopj\source\repos\SalsSandwiches\SalsSandwiches\obj\Debug\SalsSandwiches.Properties.Resources.resources
+C:\Users\ihopj\source\repos\SalsSandwiches\SalsSandwiches\obj\Debug\SalsSandwiches.SandwhichBuilder.resources
+C:\Users\ihopj\source\repos\SalsSandwiches\SalsSandwiches\obj\Debug\SalsSandwiches.csproj.GenerateResource.cache
+C:\Users\ihopj\source\repos\SalsSandwiches\SalsSandwiches\obj\Debug\SalsSandwiches.exe
+C:\Users\ihopj\source\repos\SalsSandwiches\SalsSandwiches\obj\Debug\SalsSandwiches.pdb
